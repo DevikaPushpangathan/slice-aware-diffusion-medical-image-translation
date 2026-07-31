@@ -62,7 +62,7 @@ This formulation introduces limited volumetric context while keeping the computa
 ## Model Architecture
 
 <p align="center">
-  <img src="assets/architecture.png" alt="U-Net Architecture" width="750"/>
+  <img src="assets/architecture.png" alt="Model Architecture" width="750"/>
 </p>
 
 The encoder extracts hierarchical features, the attention block models global dependencies, and the decoder reconstructs the denoised MRI slice.
